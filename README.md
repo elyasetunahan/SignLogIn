@@ -1,3 +1,8 @@
+## Demo
+
+[link](https://sign-in-login.netlify.app/)
+
+
 Eğer projeyi local'inizde çalıştırmak istiyorsanız, ana dizin üzerinde .env dosyası tanımlayarak içeriğini aşağıda ki firebase parametreleri ile doldurmanız gerekmektedir.
 
 ```
@@ -10,8 +15,6 @@ REACT_APP_appId=
 ```
 
 Selamlar herkese 🙂
-
-Henuz github classroomdan bir repo olusturmadik. Diger odevler gibi olusturuyor olacagiz. Odev icin asagida aciklamali sekilde belirtiyorum 🙂 Simdiden kolay gelsin
 
 https://www.figma.com/community/file/1055405904037266466 bu linkte bulunan Figma klasorunu Duplicate ederek lokalinize aliniz. Login Page Design ve Hello Pageslerinin ikisinide tasarlamanizi bekliyorum. Ilk acilacak sayfa Hello sayfasi olmali (biz front-end de genelde Landing olarak adlandiriyoruz) ve buradaki verileri kendi hayal gucunuzdeki isletmeye gore degistirebilirsiniz. Tasarimda bulunan "Buy me a Coffe" butonuna tikladiktan sonra Login Page acilmali. Buraya kadar her sey normal 🙂
 
