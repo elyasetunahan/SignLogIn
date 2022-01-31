@@ -1,0 +1,41 @@
+.your-logo {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 13px;
+    color: #465685;
+}
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    margin-bottom: 28px;
+    color: #414042;
+}
+
+.forgot-pw {
+    color: #465685;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    margin-bottom: 42px;
+}
+
+.have-acc {
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #BCBEC0;
+}
+
+.have-acc a {
+    font-weight: 600;
+    color: #465685;
+    text-decoration: none;
+}

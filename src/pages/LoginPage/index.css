@@ -1,0 +1,57 @@
+.your-logo {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 13px;
+    color: #465685;
+}
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    margin-bottom: 12px;
+    color: #414042;
+}
+
+.forgot-pw {
+    color: #465685;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 1px;
+    margin-bottom: 42px;
+}
+
+.sign-methods {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.sign-methods span {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #798995;
+    margin-bottom: 16px;
+}
+
+.sign-methods span a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #465685;
+}
+
+.methods {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fb {
+    color: #059BE5;
+}
